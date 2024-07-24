@@ -185,5 +185,31 @@
     >ЧТО ТАКОЕ ELASTICSEARCH? ВВОДНЫЙ УРОК</a>
    </td>   
  </tr>
+
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=k1ehwDmDiXY">
+    <img 
+    src="https://i.ytimg.com/vi/k1ehwDmDiXY/hqdefault.jpg" 
+    alt="Как Писать Код Быстрее | Топ Хаков в JetBrains IDE для Начинающих" 
+    >Как Писать Код Быстрее | Топ Хаков в JetBrains IDE для Начинающих</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=VM6-qii1LR8">
+    <img 
+    src="https://i.ytimg.com/vi/VM6-qii1LR8/hqdefault.jpg"
+    alt="Проблемы изучения фреймворков на примере авторизации в Laravel" 
+    >Проблемы изучения фреймворков на примере авторизации в Laravel</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=bKRfqILe8T0">
+    <img 
+    src="https://i.ytimg.com/vi/bKRfqILe8T0/hqdefault.jpg" 
+    alt="Погружение в Symfony: возможности, главные концепции, сравнение с конкурентами" 
+    >Погружение в Symfony: возможности, главные концепции, сравнение с конкурентами</a>
+   </td>   
+ </tr>
 </table>
 </div>
