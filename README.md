@@ -25,3 +25,40 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pomxark&show_icons=true&locale=en" alt="pomxark" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pomxark&" alt="pomxark" /></p>
+
+#### Изученный материал
+
+<div align="center">
+<table >
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/playlist?list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC">
+    <img 
+    src="https://i.ytimg.com/vi/DJJEr6IaW1Y/hqdefault.jpg" 
+    alt="Highload (4 курс, весна 2022) - Бунин О. В." 
+    >
+    </a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=YlXJMCdssAI">
+    <img 
+    src="https://i.ytimg.com/vi/YlXJMCdssAI/hqdefault.jpg" 
+    alt="Паттерны отказоустойчивой архитектуры – Александр Кривощёков" 
+    >
+    </a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=eI1QQUrFUZI">
+    <img 
+    src="https://i.ytimg.com/vi/eI1QQUrFUZI/hqdefault.jpg" 
+    alt="Микросервисы с нуля / Семен Катаев (Авито)" 
+    >
+    </a>
+   </td>   
+ </tr>
+
+ 
+</table>
+</div>
