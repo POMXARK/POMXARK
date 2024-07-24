@@ -211,5 +211,31 @@
     >Погружение в Symfony: возможности, главные концепции, сравнение с конкурентами</a>
    </td>   
  </tr>
+
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=lrnKIt1DXFQ">
+    <img 
+    src="https://i.ytimg.com/vi/lrnKIt1DXFQ/hqdefault.jpg" 
+    alt="KPHP: зачем VK свой компилятор PHP и как он устроен" 
+    >KPHP: зачем VK свой компилятор PHP и как он устроен</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/playlist?list=PLqDySLfPKRn543NM_fTrJRdhjBgsogzSC">
+    <img 
+    src="https://i.ytimg.com/vi/VyIjDnYviD4/hqdefault.jpg"
+    alt="Laravel Livewire 3 course (Beginners)" 
+    >Laravel Livewire 3 course (Beginners)</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/playlist?list=PL6tf8fRbavl3jfL67gVOE9rF0jG5bNTMi">
+    <img 
+    src="https://i.ytimg.com/vi/rN9XI9KCz0c/hqdefault.jpg" 
+    alt="Filament PHP V3 Tutorial" 
+    >Filament PHP V3 Tutorial</a>
+   </td>   
+ </tr>
 </table>
 </div>
