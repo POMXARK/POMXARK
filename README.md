@@ -36,8 +36,7 @@
     <img 
     src="https://i.ytimg.com/vi/DJJEr6IaW1Y/hqdefault.jpg" 
     alt="Highload (4 курс, весна 2022) - Бунин О. В." 
-    >
-    </a>
+    >Highload (4 курс, весна 2022) - Бунин О. В.</a>
    </td>
 
   <td>
@@ -45,8 +44,7 @@
     <img 
     src="https://i.ytimg.com/vi/YlXJMCdssAI/hqdefault.jpg" 
     alt="Паттерны отказоустойчивой архитектуры – Александр Кривощёков" 
-    >
-    </a>
+    >Паттерны отказоустойчивой архитектуры – Александр Кривощёков</a>
    </td>
 
   <td>
@@ -54,8 +52,7 @@
     <img 
     src="https://i.ytimg.com/vi/eI1QQUrFUZI/hqdefault.jpg" 
     alt="Микросервисы с нуля / Семен Катаев (Авито)" 
-    >
-    </a>
+    >Микросервисы с нуля / Семен Катаев (Авито)</a>
    </td>   
  </tr>
 
@@ -65,8 +62,7 @@
     <img 
     src="https://i.ytimg.com/vi/I3QedJ2dEJw/hqdefault.jpg" 
     alt="Высоконагруженная платежная система "Мир": что под капотом / Юрий Бабак (Мир Plat.Form)" 
-    >
-    </a>
+    >Высоконагруженная платежная система "Мир": что под капотом / Юрий Бабак (Мир Plat.Form)</a>
    </td>
 
   <td>
@@ -74,8 +70,7 @@
     <img 
     src="https://i.ytimg.com/vi/SNzOZKvFZ68/hqdefault.jpg" 
     alt="Postgres vs Mongo / Олег Бартунов (Postgres Professional)" 
-    >
-    </a>
+    >Postgres vs Mongo / Олег Бартунов (Postgres Professional)</a>
    </td>
 
   <td>
@@ -83,8 +78,7 @@
     <img 
     src="https://i.ytimg.com/vi/HjLnY0aPQZo/hqdefault.jpg" 
     alt="Топ ошибок со стороны разработки при работе с PostgreSQL / Алексей Лесовский (Data Egret)" 
-    >
-    </a>
+    >Топ ошибок со стороны разработки при работе с PostgreSQL / Алексей Лесовский (Data Egret)</a>
    </td>   
  </tr>
 
@@ -94,8 +88,7 @@
     <img 
     src="https://i.ytimg.com/vi/aaecM4wKdhY/hqdefault.jpg" 
     alt="Вся правда об индексах в PostgreSQL / Олег Бартунов, Александр Коротков (PostgreSQL)" 
-    >
-    </a>
+    >Вся правда об индексах в PostgreSQL / Олег Бартунов, Александр Коротков (PostgreSQL)</a>
    </td>
 
   <td>
@@ -103,8 +96,7 @@
     <img 
     src="https://i.ytimg.com/vi/yLrSp174yc0/hqdefault.jpg" 
     alt="Ах, как хочется вернуться, ворваться в монолит! / Павел Лакосников (Авито)" 
-    >
-    </a>
+    >Ах, как хочется вернуться, ворваться в монолит! / Павел Лакосников (Авито)</a>
    </td>
 
   <td>
@@ -112,8 +104,7 @@
     <img 
     src="https://i.ytimg.com/vi/3fJ5ptx5g7M/hqdefault.jpg" 
     alt="ТОП ошибок в инфраструктуре, мешающих высоким нагрузкам / Андрей Половов (Флант)" 
-    >
-    </a>
+    >ТОП ошибок в инфраструктуре, мешающих высоким нагрузкам / Андрей Половов (Флант)</a>
    </td>   
  </tr>
 </table>
