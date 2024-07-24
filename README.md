@@ -133,5 +133,31 @@
     >Обзор Laravel Octane, Roadrunner, FrankenPHP</a>
    </td>   
  </tr>
+
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=3vT1NUR91q0">
+    <img 
+    src="https://i.ytimg.com/vi/3vT1NUR91q0/hqdefault.jpg" 
+    alt="Самое простое объяснение Composition Api Vue. Vue 3 setup секция. Что такое setup, ref, reactive" 
+    >Самое простое объяснение Composition Api Vue. Vue 3 setup секция. Что такое setup, ref, reactive</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=UFtRD4JA_Es">
+    <img 
+    src="https://i.ytimg.com/vi/UFtRD4JA_Es/hqdefault.jpg"
+    alt="COMPOSITION API И НОВОВВЕДЕНИЯ VUE 3 | Создание приложение с нуля" 
+    >COMPOSITION API И НОВОВВЕДЕНИЯ VUE 3 | Создание приложение с нуля</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=U_-Ht_v-oAs">
+    <img 
+    src="https://i.ytimg.com/vi/U_-Ht_v-oAs/hqdefault.jpg" 
+    alt="Vue 3 для начинающих / Разработка интернет-магазина Vue Sneakers" 
+    >Vue 3 для начинающих / Разработка интернет-магазина Vue Sneakers</a>
+   </td>   
+ </tr>
 </table>
 </div>
