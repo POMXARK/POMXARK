@@ -289,5 +289,31 @@
     >Тимофей Семененко - Гибридные приложения на примере PHP/Golang</a>
    </td>   
  </tr>
+
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=_EqVG-El5z0">
+    <img 
+    src="https://i.ytimg.com/vi/_EqVG-El5z0/hqdefault.jpg" 
+    alt="Что такое gRPC и Protobuf?" 
+    >Что такое gRPC и Protobuf?</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=EURjTg5fw-E">
+    <img 
+    src="https://i.ytimg.com/vi/EURjTg5fw-E/hqdefault.jpg" 
+    alt="Пишем gRPC сервис на Go - Сервис авторизации / УЛЬТИМАТИВНЫЙ гайд" 
+    >Пишем gRPC сервис на Go - Сервис авторизации / УЛЬТИМАТИВНЫЙ гайд</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=hDwqFRUuykQ">
+    <img 
+    src="https://i.ytimg.com/vi/hDwqFRUuykQ/hqdefault.jpg" 
+    alt="Архитектура Go проекта на практике" 
+    >Архитектура Go проекта на практике</a>
+   </td>   
+ </tr>
 </table>
 </div>
