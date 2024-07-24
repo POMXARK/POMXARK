@@ -237,5 +237,31 @@
     >Filament PHP V3 Tutorial</a>
    </td>   
  </tr>
+ 
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=7iihgFlAHY8">
+    <img 
+    src="https://i.ytimg.com/vi/7iihgFlAHY8/hqdefault.jpg" 
+    alt="Table Filters | Filament 3 Tutorial for Beginners EP10" 
+    >Table Filters | Filament 3 Tutorial for Beginners EP10</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=QpBaA6B1U90">
+    <img 
+    src="https://i.ytimg.com/vi/QpBaA6B1U90/hqdefault.jpg"
+    alt="Redis за 20 минут ( опимизация запросов на чтение, нагрузочное тестирование postman)" 
+    >Redis за 20 минут ( опимизация запросов на чтение, нагрузочное тестирование postman)</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=9NqfyBcCyUs">
+    <img 
+    src="https://i.ytimg.com/vi/9NqfyBcCyUs/hqdefault.jpg" 
+    alt="Многоступенчатая сборка Docker, Jib и Buildpacks" 
+    >Многоступенчатая сборка Docker, Jib и Buildpacks</a>
+   </td>   
+ </tr>
 </table>
 </div>
