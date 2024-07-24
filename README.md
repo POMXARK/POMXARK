@@ -107,5 +107,31 @@
     >ТОП ошибок в инфраструктуре, мешающих высоким нагрузкам / Андрей Половов (Флант)</a>
    </td>   
  </tr>
+
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/playlist?list=PLD5U-C5KK50X1KcfueA73sGSjBsd8vgVG">
+    <img 
+    src="https://i.ytimg.com/vi/jV7lVrtZVko/hqdefault.jpg" 
+    alt="Laravel echo server - чат | Realtime. Laravel и Vue (Realtime app)" 
+    >Laravel echo server - чат | Realtime. Laravel и Vue (Realtime app)</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=8j29aAbtYWo&t">
+    <img 
+    src="https://i.ytimg.com/vi/8j29aAbtYWo/hqdefault.jpg"
+    alt="Как Сделать Лучший Пет-Проект | Архитектура Бекенда за 1 час" 
+    >Как Сделать Лучший Пет-Проект | Архитектура Бекенда за 1 час</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=DgVLt7j8Nxo">
+    <img 
+    src="https://i.ytimg.com/vi/DgVLt7j8Nxo/hqdefault.jpg" 
+    alt="Обзор Laravel Octane, Roadrunner, FrankenPHP" 
+    >Обзор Laravel Octane, Roadrunner, FrankenPHP</a>
+   </td>   
+ </tr>
 </table>
 </div>
