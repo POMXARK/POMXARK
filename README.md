@@ -159,5 +159,31 @@
     >Vue 3 для начинающих / Разработка интернет-магазина Vue Sneakers</a>
    </td>   
  </tr>
+
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=DX-nrNVhhWI">
+    <img 
+    src="https://i.ytimg.com/vi/DX-nrNVhhWI/hqdefault.jpg" 
+    alt="Фильтры, Laravel Scout, full text поиск. Курс интернет магазин на Laravel. Этап 5." 
+    >Фильтры, Laravel Scout, full text поиск. Курс интернет магазин на Laravel. Этап 5.</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=qDt70R4i3wk">
+    <img 
+    src="https://i.ytimg.com/vi/qDt70R4i3wk/hqdefault.jpg"
+    alt="ElasticSearch что это такое - ElasticSearch уроки" 
+    >ElasticSearch что это такое - ElasticSearch уроки</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=nMaDw6Dk14k">
+    <img 
+    src="https://i.ytimg.com/vi/nMaDw6Dk14k/hqdefault.jpg" 
+    alt="ЧТО ТАКОЕ ELASTICSEARCH? ВВОДНЫЙ УРОК" 
+    >ЧТО ТАКОЕ ELASTICSEARCH? ВВОДНЫЙ УРОК</a>
+   </td>   
+ </tr>
 </table>
 </div>
