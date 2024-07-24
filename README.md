@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Роман</h1>
-<h3 align="center">FULLSTACK DEVELOPER FROM RUSSIA</h3>
+<h3 align="center">FULLSTACK DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pomxark&label=Profile%20views&color=0e75b6&style=flat" alt="pomxark" /> </p>
 
@@ -59,6 +59,62 @@
    </td>   
  </tr>
 
- 
+  <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=I3QedJ2dEJw">
+    <img 
+    src="https://i.ytimg.com/vi/I3QedJ2dEJw/hqdefault.jpg" 
+    alt="Высоконагруженная платежная система "Мир": что под капотом / Юрий Бабак (Мир Plat.Form)" 
+    >
+    </a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=SNzOZKvFZ68">
+    <img 
+    src="https://i.ytimg.com/vi/SNzOZKvFZ68/hqdefault.jpg" 
+    alt="Postgres vs Mongo / Олег Бартунов (Postgres Professional)" 
+    >
+    </a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=HjLnY0aPQZo">
+    <img 
+    src="https://i.ytimg.com/vi/HjLnY0aPQZo/hqdefault.jpg" 
+    alt="Топ ошибок со стороны разработки при работе с PostgreSQL / Алексей Лесовский (Data Egret)" 
+    >
+    </a>
+   </td>   
+ </tr>
+
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=aaecM4wKdhY">
+    <img 
+    src="https://i.ytimg.com/vi/aaecM4wKdhY/hqdefault.jpg" 
+    alt="Вся правда об индексах в PostgreSQL / Олег Бартунов, Александр Коротков (PostgreSQL)" 
+    >
+    </a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=yLrSp174yc0">
+    <img 
+    src="https://i.ytimg.com/vi/yLrSp174yc0/hqdefault.jpg" 
+    alt="Ах, как хочется вернуться, ворваться в монолит! / Павел Лакосников (Авито)" 
+    >
+    </a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=3fJ5ptx5g7M">
+    <img 
+    src="https://i.ytimg.com/vi/3fJ5ptx5g7M/hqdefault.jpg" 
+    alt="ТОП ошибок в инфраструктуре, мешающих высоким нагрузкам / Андрей Половов (Флант)" 
+    >
+    </a>
+   </td>   
+ </tr>
 </table>
 </div>
