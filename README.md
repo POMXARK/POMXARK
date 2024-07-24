@@ -251,8 +251,8 @@
      <a href="https://www.youtube.com/watch?v=QpBaA6B1U90">
     <img 
     src="https://i.ytimg.com/vi/QpBaA6B1U90/hqdefault.jpg"
-    alt="Redis за 20 минут ( опимизация запросов на чтение, нагрузочное тестирование postman)" 
-    >Redis за 20 минут ( опимизация запросов на чтение, нагрузочное тестирование postman)</a>
+    alt="Redis за 20 минут (оптимизация запросов на чтение, нагрузочное тестирование postman)" 
+    >Redis за 20 минут (оптимизация запросов на чтение, нагрузочное тестирование postman)</a>
    </td>
 
   <td>
@@ -261,6 +261,32 @@
     src="https://i.ytimg.com/vi/9NqfyBcCyUs/hqdefault.jpg" 
     alt="Многоступенчатая сборка Docker, Jib и Buildpacks" 
     >Многоступенчатая сборка Docker, Jib и Buildpacks</a>
+   </td>   
+ </tr>
+
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=XgWUDoaDQVA">
+    <img 
+    src="https://i.ytimg.com/vi/XgWUDoaDQVA/hqdefault.jpg" 
+    alt="ElasticSearch найти то, не зная что - Юлия Силантьева, Backend разработчик команды Поиска ЕАПТЕКА" 
+    >ElasticSearch найти то, не зная что - Юлия Силантьева, Backend разработчик команды Поиска ЕАПТЕКА</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=BCj_mgxq7PM">
+    <img 
+    src="https://i.ytimg.com/vi/BCj_mgxq7PM/hqdefault.jpg"
+    alt="Из PHP в Golang или туда и там остался - Максим Шамаев из X-Cart" 
+    >Из PHP в Golang или туда и там остался - Максим Шамаев из X-Cart</a>
+   </td>
+
+  <td>
+     <a href="https://www.youtube.com/watch?v=BWFAcVRmYvY">
+    <img 
+    src="https://i.ytimg.com/vi/BWFAcVRmYvY/hqdefault.jpg" 
+    alt="Тимофей Семененко - Гибридные приложения на примере PHP/Golang" 
+    >Тимофей Семененко - Гибридные приложения на примере PHP/Golang</a>
    </td>   
  </tr>
 </table>
