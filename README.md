@@ -32,6 +32,32 @@
 <table >
  <tr>
    <td>
+     <a href="https://habr.com/ru/articles/664360/">
+    <img 
+    src="https://habrastorage.org/getpro/habr/upload_files/eca/4b1/f87/eca4b1f877381965ac6486c044ec8db4.png" 
+    alt="Грокаем алгоритмы" 
+    >Грокаем алгоритмы</a>
+   </td>
+
+  <td>
+     <a href="https://habr.com/ru/articles/485118/">
+    <img 
+    src="https://img4.labirint.ru/rc/e134625f66238ada32c3553886569ee5/363x561q80/books65/642466/cover.jpg" 
+    alt="Чистый код" 
+    >Чистый код</a>
+   </td>
+
+  <td>
+     <a href="https://habr.com/ru/companies/piter/articles/580670/">
+    <img 
+    src="https://habrastorage.org/r/w1560/webt/qm/o2/dv/qmo2dvwky-a0xbkvd8bibs8x8yu.jpeg" 
+    alt="Head First. Паттерны проектирования" 
+    >Head First. Паттерны проектирования</a>
+   </td>   
+ </tr>
+ 
+ <tr>
+   <td>
      <a href="https://www.youtube.com/playlist?list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC">
     <img 
     src="https://i.ytimg.com/vi/DJJEr6IaW1Y/hqdefault.jpg" 
