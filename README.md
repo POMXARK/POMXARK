@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я Роман</h1>
 <h3 align="center">FULLSTACK DEVELOPER</h3>
 
-<h3 align="center">МОИ РАБОТЫ</h3>
+<h3 align="center">МОИ ПРОЕКТЫ</h3>
 
 <div align="center">
 <table >
@@ -31,7 +31,7 @@
 
 - 🔭 В настоящее время я работаю над [сайтом Портфолио с загрузкой данных из WordPress](https://github.com/POMXARK/wordpress-landing-page-lesson)
 
-- 👨‍💻 Все мои проекты доступны по адресу [https://github.com/POMXARK?tab=repositories&q=&type=source&language=&sort=](https://github.com/POMXARK?tab=repositories&q=&type=source&language=&sort=)
+- 👨‍💻 Все мои проекты доступны по адресу [https://github.com/POMXARK?tab=repositories&q=&type=source&language=&sort=](https://github.com/POMXARK?tab=repositories&q=&type=source)
 
 - 📫 Как связаться со мной **1997pom@gmail.com**
 
