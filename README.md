@@ -31,7 +31,7 @@
 
 - 🔭 В настоящее время я работаю над [сайтом Портфолио с загрузкой данных из WordPress](https://github.com/POMXARK/wordpress-landing-page-lesson)
 
-- 👨‍💻 Все мои проекты доступны по адресу [https://github.com/POMXARK?tab=repositories&q=&type=source&language=&sort=](https://github.com/POMXARK?tab=repositories&q=&type=source)
+- 👨‍💻 Все мои проекты доступны по адресу [https://github.com/POMXARK?tab=repositories&q=&type=source](https://github.com/POMXARK?tab=repositories&q=&type=source)
 
 - 📫 Как связаться со мной **1997pom@gmail.com**
 
