@@ -1,6 +1,29 @@
 <h1 align="center">Привет 👋, я Роман</h1>
 <h3 align="center">FULLSTACK DEVELOPER</h3>
 
+<h3 align="center">МОИ РАБОТЫ</h3>
+
+<div align="center">
+<table >
+ <tr>
+   <td>
+     <a href="https://github.com/stars/POMXARK/lists/laravel-test-projects/">
+    <br/>PHP (Laravel/Symfony)</a>
+   </td>
+  
+   <td>
+     <a href="https://github.com/stars/POMXARK/lists/test-frontend-projects/">
+    <br/>JS (Vue/React)</a>
+   </td>
+
+   <td>
+     <a href="https://github.com/stars/POMXARK/lists/test-frontend-projects/">
+    <br/>C#/C++ (WPF/Avalonia)</a>
+   </td>
+ </tr>
+<table >
+<div/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pomxark&label=Profile%20views&color=0e75b6&style=flat" alt="pomxark" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pomxark" alt="pomxark" /></a> </p>
