@@ -7,8 +7,10 @@
 <table >
  <tr>
    <td>
-     <a href="https://github.com/stars/POMXARK/lists/laravel-test-projects/">
-    <br/>PHP (Laravel/Symfony)</a>
+    <br/>PHP (
+     <a href="https://github.com/stars/POMXARK/lists/laravel-test-projects/">Laravel</a>
+     <a href="https://github.com/stars/POMXARK/lists/symfony-test-projects/">Symfony</a>
+     )
    </td>
   
    <td>
