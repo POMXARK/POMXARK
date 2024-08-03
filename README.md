@@ -65,10 +65,19 @@
     ><br/>WebDesign Master
      <br/>Уникальные авторские уроки и курсы по созданию сайтов, профессиональной верстке и современному веб-дизайну
      </a>
-     <br/>Все курсы в одном комплекте: <a href="webdesign-master.ru/bundle">webdesign-master.ru/bundle<a/>
-     <br/>Телеграм: <a href="t.me/jediweb">t.me/jediweb<a/>
-     <br/>ВКонтакте: <a href="vk.com/jediweb">vk.com/jediweb<a/>
-      <br/>Дзен: <a href="dzen.ru/jediweb">dzen.ru/jediweb<a/>
+     <a href="webdesign-master.ru/bundle">Все курсы в одном комплекте<a/>
+     <br/><a href="t.me/jediweb">Телеграм<a/>
+     <br/><a href="vk.com/jediweb">ВКонтакте<a/>
+      <br/><a href="dzen.ru/jediweb">Дзен<a/>
+   </td>
+       
+   <td>
+     <a href="https://www.youtube.com/@t0digital">
+    <img 
+    src="https://yt3.googleusercontent.com/ytc/AIdro_kNR8mZJk4ioasRRP0kH9DddORAAKwg4VB6gHCc_Mzu7Wo=s160-c-k-c0x00ffffff-no-rj" 
+    alt="Диджитализируй!" 
+    ><br/>Диджитализируй!
+      <br/><a href="to.digital">Сайт<a/>
    </td>
 </table>
 </div> 
