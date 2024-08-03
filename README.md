@@ -52,10 +52,29 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pomxark&" alt="pomxark" /></p>
 
+#### Полезные каналы
 
+<div align="center">
+<table >
+ <tr>
+   <td>
+     <a href="http://www.youtube.com/@wdm">
+    <img 
+    src="https://yt3.googleusercontent.com/S7mowm8wxEGtUk0w7iVRaTRfc6obGV7z0EhDBYGABcE7o5vcKOYBfQQnfTyFHseRBnge1ZJQRLU=s160-c-k-c0x00ffffff-no-rj" 
+    alt="WebDesign Master" 
+    ><br/>WebDesign Master
+     <br/>Уникальные авторские уроки и курсы по созданию сайтов, профессиональной верстке и современному веб-дизайну
+     </a>
+     <br/>Все курсы в одном комплекте: <a href="webdesign-master.ru/bundle">webdesign-master.ru/bundle<a/>
+     <br/>Телеграм: <a href="t.me/jediweb">t.me/jediweb<a/>
+     <br/>ВКонтакте: <a href="vk.com/jediweb">vk.com/jediweb<a/>
+      <br/>Дзен: <a href="dzen.ru/jediweb">dzen.ru/jediweb<a/>
+   </td>
+</table>
+</div> 
 
-<details>
-<summary>Изученный материал</summary>
+#### Изученный материал
+
 <div align="center">
 <table >
  <tr>
@@ -371,4 +390,3 @@
  </tr>
 </table>
 </div>
-</details>
