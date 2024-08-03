@@ -52,8 +52,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pomxark&" alt="pomxark" /></p>
 
-#### Изученный материал
 
+
+<details>
+<summary>Изученный материал</summary>
 <div align="center">
 <table >
  <tr>
@@ -369,3 +371,4 @@
  </tr>
 </table>
 </div>
+</details>
