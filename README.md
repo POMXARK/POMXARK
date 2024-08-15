@@ -114,6 +114,32 @@
 
 <tr>
    <td>
+     <a href="https://www.youtube.com/watch?v=h6mEtgQbhw8">
+    <img 
+    src="https://i.ytimg.com/vi/h6mEtgQbhw8/hqdefault.jpg" 
+    alt="Собеседование senior backend PHP теоретическая часть 2024 год" 
+    >Собеседование senior backend PHP теоретическая часть 2024 год</a>
+   </td>   
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=3CdQcKEYBTA">
+    <img 
+    src="https://i.ytimg.com/vi/3CdQcKEYBTA/hqdefault.jpg" 
+    alt="Генераторы и файберы в PHP // Курс «PHP Developer. Professional»" 
+    >Генераторы и файберы в PHP // Курс «PHP Developer. Professional»</a>
+   </td>
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=f_LsltmFHMk">
+    <img 
+    src="https://i.ytimg.com/vi/f_LsltmFHMk/hqdefault.jpg" 
+    alt="PHP: выборка данных из БД и генераторы" 
+    >PHP: выборка данных из БД и генераторы</a>
+   </td>   
+ </tr>
+
+<tr>
+   <td>
      <a href="https://www.youtube.com/playlist?list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC">
     <img 
     src="https://i.ytimg.com/vi/DJJEr6IaW1Y/hqdefault.jpg" 
@@ -138,16 +164,6 @@
    </td>   
  </tr>
  
- <tr>
-   <td>
-     <a href="https://www.youtube.com/watch?v=f_LsltmFHMk">
-    <img 
-    src="https://i.ytimg.com/vi/f_LsltmFHMk/hqdefault.jpg" 
-    alt="PHP: выборка данных из БД и генераторы" 
-    >PHP: выборка данных из БД и генераторы</a>
-   </td>   
- </tr>
-
   <tr>
    <td>
      <a href="https://www.youtube.com/watch?v=I3QedJ2dEJw">
