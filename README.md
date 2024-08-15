@@ -111,8 +111,8 @@
     ><br/>Head First. Паттерны проектирования</a>
    </td>   
  </tr>
- 
- <tr>
+
+<tr>
    <td>
      <a href="https://www.youtube.com/playlist?list=PL4_hYwCyhAva6-f-YxobKju-6ltmn-jNC">
     <img 
@@ -135,6 +135,16 @@
     src="https://i.ytimg.com/vi/eI1QQUrFUZI/hqdefault.jpg" 
     alt="Микросервисы с нуля / Семен Катаев (Авито)" 
     >Микросервисы с нуля / Семен Катаев (Авито)</a>
+   </td>   
+ </tr>
+ 
+ <tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=f_LsltmFHMk">
+    <img 
+    src="https://i.ytimg.com/vi/f_LsltmFHMk/hqdefault.jpg" 
+    alt="PHP: выборка данных из БД и генераторы" 
+    >PHP: выборка данных из БД и генераторы</a>
    </td>   
  </tr>
 
