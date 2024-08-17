@@ -112,6 +112,33 @@
    </td>   
  </tr>
 
+
+<tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=oQdQIjiN-pE">
+    <img 
+    src="https://i.ytimg.com/vi/oQdQIjiN-pE/hqdefault.jpg" 
+    alt="Cобеседование Senior Software Engineer (PHP)" 
+    >Cобеседование Senior Software Engineer (PHP)</a>
+   </td>   
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=BmcA9SB9mSY">
+    <img 
+    src="https://i.ytimg.com/vi/BmcA9SB9mSY/hqdefault.jpg" 
+    alt="Vue 3 & Quasar Tutorial - Create a Money App in 2 Hours!" 
+    >Vue 3 & Quasar Tutorial - Create a Money App in 2 Hours!</a>
+   </td>
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=PjCqsf87Z1Y">
+    <img 
+    src="https://i.ytimg.com/vi/PjCqsf87Z1Y/hqdefault.jpg" 
+    alt="Create an App for Android, iOS, Mac & Windows in 30 MINUTES! (Vue 3 & Quasar 2)" 
+    >Create an App for Android, iOS, Mac & Windows in 30 MINUTES! (Vue 3 & Quasar 2)</a>
+   </td>   
+ </tr>
+
 <tr>
    <td>
      <a href="https://www.youtube.com/watch?v=h6mEtgQbhw8">
