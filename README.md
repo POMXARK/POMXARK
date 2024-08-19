@@ -114,6 +114,32 @@
 
 <tr>
    <td>
+     <a href="https://www.youtube.com/watch?v=DXB-GJKKNcg">
+    <img 
+    src="https://i.ytimg.com/vi/DXB-GJKKNcg/hqdefault.jpg" 
+    alt="Структура формирования url-адресов в Интернет" 
+    >Структура формирования url-адресов в Интернет</a>
+   </td>   
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=WBYhURKtfSc">
+    <img 
+    src="https://i.ytimg.com/vi/WBYhURKtfSc/hqdefault.jpg" 
+    alt="Структура HTTP-запроса и ответа" 
+    >Структура HTTP-запроса и ответа</a>
+   </td>
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=8ZKlOD4fRT0">
+    <img 
+    src="https://i.ytimg.com/vi/8ZKlOD4fRT0/hqdefault.jpg" 
+    alt="Жизненный цикл HTTP-запроса" 
+    >Жизненный цикл HTTP-запроса</a>
+   </td>   
+ </tr>
+
+<tr>
+   <td>
      <a href="https://www.youtube.com/watch?v=DL9I9OJa5vY">
     <img 
     src="https://i.ytimg.com/vi/DL9I9OJa5vY/hqdefault.jpg" 
