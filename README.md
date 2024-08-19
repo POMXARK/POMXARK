@@ -112,6 +112,31 @@
    </td>   
  </tr>
 
+<tr>
+   <td>
+     <a href="https://www.youtube.com/watch?v=DL9I9OJa5vY">
+    <img 
+    src="https://i.ytimg.com/vi/DL9I9OJa5vY/hqdefault.jpg" 
+    alt="Полный курс по JavaScript — от новичка до профессионала (2024), Часть 2 из 2" 
+    >Полный курс по JavaScript — от новичка до профессионала (2024), Часть 2 из 2</a>
+   </td>   
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=yQ7qHZBY5xI">
+    <img 
+    src="https://i.ytimg.com/vi/yQ7qHZBY5xI/hqdefault.jpg" 
+    alt="Как применять оконные функции в SQL и Pandas" 
+    >Как применять оконные функции в SQL и Pandas</a>
+   </td>
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=HjiE3n4_6zI">
+    <img 
+    src="https://i.ytimg.com/vi/HjiE3n4_6zI/hqdefault.jpg" 
+    alt="Идемпотентность и коммутативность API в очередях и HTTP" 
+    >Идемпотентность и коммутативность API в очередях и HTTP</a>
+   </td>   
+ </tr>
 
 <tr>
    <td>
