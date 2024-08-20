@@ -114,6 +114,32 @@
 
 <tr>
    <td>
+     <a href="https://www.youtube.com/watch?v=BtzjHTIuXro">
+    <img 
+    src="https://i.ytimg.com/vi/BtzjHTIuXro/hqdefault.jpg" 
+    alt="Оптимизация запросов в PostgreSQL" 
+    >Оптимизация запросов в PostgreSQL</a>
+   </td>   
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=6FDNskx6xV4">
+    <img 
+    src="https://i.ytimg.com/vi/6FDNskx6xV4/hqdefault.jpg" 
+    alt="Оптимизация SQL-запросов. Без воды. ТОП-10 ошибок" 
+    >Оптимизация SQL-запросов. Без воды. ТОП-10 ошибок</a>
+   </td>
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=FdMkixY5nso">
+    <img 
+    src="https://i.ytimg.com/vi/FdMkixY5nso/hqdefault.jpg" 
+    alt="B-tree индексы в базах данных на примере IndexedDB и PostgreSQL" 
+    >B-tree индексы в базах данных на примере IndexedDB и PostgreSQL</a>
+   </td>   
+ </tr>
+
+<tr>
+   <td>
      <a href="https://www.youtube.com/watch?v=DXB-GJKKNcg">
     <img 
     src="https://i.ytimg.com/vi/DXB-GJKKNcg/hqdefault.jpg" 
