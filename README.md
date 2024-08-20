@@ -114,6 +114,32 @@
 
 <tr>
    <td>
+     <a href="https://www.youtube.com/watch?v=-e8ItaE95Xk&list=PLQA8o9MSrB3DEC1OfHr2PPm_QwtGhhJ6k&index=1">
+    <img 
+    src="https://i.ytimg.com/vi/-e8ItaE95Xk/hqdefault.jpg" 
+    alt="Курс Symfony 2024" 
+    >Курс Symfony 2024</a>
+   </td>   
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=mg70LYuRS3I">
+    <img 
+    src="https://i.ytimg.com/vi/mg70LYuRS3I/hqdefault.jpg" 
+    alt="MySQL и PostgreSQL: что «под капотом» и почему это важно знать прикладному разработчику" 
+    >MySQL и PostgreSQL: что «под капотом» и почему это важно знать прикладному разработчику</a>
+   </td>
+   
+   <td>
+     <a href="https://www.youtube.com/watch?v=Vtos9nsukqE">
+    <img 
+    src="https://i.ytimg.com/vi/Vtos9nsukqE/hqdefault.jpg" 
+    alt="Углубленный анализ производительности. Профилирование, мониторинг и оптимизация PostgreSQL" 
+    >Углубленный анализ производительности. Профилирование, мониторинг и оптимизация PostgreSQL</a>
+   </td>   
+ </tr>
+
+<tr>
+   <td>
      <a href="https://www.youtube.com/watch?v=BtzjHTIuXro">
     <img 
     src="https://i.ytimg.com/vi/BtzjHTIuXro/hqdefault.jpg" 
