@@ -19,7 +19,7 @@
    </td>
 
    <td>
-     <a href="https://github.com/stars/POMXARK/lists/test-frontend-projects/">
+     <a href="https://github.com/stars/POMXARK/lists/test-c-projects">
     <br/>C#/C++ (WPF/Avalonia)</a>
    </td>
  </tr>
