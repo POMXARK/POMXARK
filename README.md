@@ -1,5 +1,15 @@
 <h1 align="center">Привет 👋, я Роман</h1>
-<h3 align="center">FULLSTACK DEVELOPER</h3>
+<h3 align="center">FULLSTACK РАЗРАБОТЧИК — PHP, Node.js, Python, немного C#/.NET</h3>
+
+<p align="center">
+Больше 6 лет пишу продакшн-код: от монолитов на Laravel и Symfony до асинхронного микросервиса на FastAPI для банковского проекта, который сам довёл от архитектуры до продакшена — очереди на RabbitMQ через aio-pika, файлы в MinIO, realtime через WebSocket. В свободное время форкнул заброшенную библиотеку иконок для Vue 2, перевёл её на Vue 3 и опубликовал как <a href="https://www.npmjs.com/package/vue3-ico">vue3-ico</a> в npm — теперь её может поставить себе любой разработчик, а не только я. Ещё собрал десктопное приложение <a href="https://github.com/POMXARK/SmartDictor_0.1_Nuitka_cleer">SmartDictor</a>, которое распознаёт текст с экрана через OpenCV и Tesseract OCR и озвучивает его.
+</p>
+
+<p align="center">
+🌐 Портфолио: <a href="https://pomxark.github.io">pomxark.github.io</a> &nbsp;|&nbsp;
+📄 Резюме: <a href="https://samara.hh.ru/resume/1dee1ec8ff0d7864690039ed1f30556f324257">hh.ru</a> &nbsp;|&nbsp;
+📫 <b>1997pom@gmail.com</b>
+</p>
 
 <h3 align="center">МОИ ПРОЕКТЫ</h3>
 
@@ -31,13 +41,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pomxark" alt="pomxark" /></a> </p>
 
-- 🔭 В настоящее время я работаю над [сайтом Портфолио с загрузкой данных из WordPress](https://github.com/POMXARK/wordpress-landing-page-lesson)
+- 🏦 Соло спроектировал и довёл до продакшена асинхронный микросервис для банковского проекта (FastAPI, SQLAlchemy, RabbitMQ, MinIO, WebSocket, JWT)
+
+- 📦 Опубликованная библиотека: [vue3-ico](https://www.npmjs.com/package/vue3-ico) в npm
+
+- 🔭 Сейчас изучаю, как агентные AI-инструменты меняют процесс разработки, и применяю их в реальных задачах
 
 - 👨‍💻 Все мои проекты доступны по адресу [https://github.com/POMXARK?tab=repositories&q=&type=source](https://github.com/POMXARK?tab=repositories&q=&type=source)
 
-- 📫 Как связаться со мной **1997pom@gmail.com**
+- 🌐 Портфолио: [pomxark.github.io](https://pomxark.github.io)
 
-- 📄 Знать о моем опыте [https://samara.hh.ru/resume/1dee1ec8ff0d7864690039ed1f30556f324257](https://samara.hh.ru/resume/1dee1ec8ff0d7864690039ed1f30556f324257)
+- 📫 Как связаться со мной **1997pom@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
